@@ -22,7 +22,7 @@ The dataset used in this project is from August 2014 to August 2017. For more co
 
 > **Note**
 
-> ML Tesla_Stock part : - In this file only explore the data
+> ML Tesla_Stock part 1.ipynb : - In this file only explore the data
 
 > Ml part2 Tesla_Stock predict.ipynb : - In this file predict the data.
 
